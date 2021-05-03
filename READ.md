@@ -23,4 +23,7 @@ python3 run.py
 
 如果需要播夜清單下載請自行於第4行改為<br>
 order = 'youtube-dl -F '<br>
-並於links.txt確認URL
+並於links.txt確認URL<br>
+
+Pyhton3 Windows下載<br>
+https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe
