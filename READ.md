@@ -8,7 +8,8 @@ INSTALL:
 WINDOWS:
 下載ZIP https://github.com/constantinedev/youtube-dlownload-by-readline/archive/refs/heads/main.zip <br>
 解壓<br>
-開始>cmd.exe>拉個File去CMD<br>
+開始>cmd.exe><br>
+先輸入 cd[空格] > 再拉個File去CMD > [enter]<br>
 輸入: python run.py<br>
 
 LINUX:
