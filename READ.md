@@ -5,7 +5,7 @@ WINDOWS:
 
 INSTALL:
 
-git clone <br>
+git clone https://github.com/constantinedev/youtube-dlownload-by-readline.git<br>
 chmod +x run.py<br>
 python3 -m pip install -U pip<br>
 python3 -m pip install youtube-dl<br>
