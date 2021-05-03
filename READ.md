@@ -5,7 +5,15 @@ WINDOWS:
 
 INSTALL:
 
+WINDOWS:
+下載ZIP https://github.com/constantinedev/youtube-dlownload-by-readline/archive/refs/heads/main.zip <br>
+解壓<br>
+開始>cmd.exe>拉個File去CMD<br>
+輸入: python run.py<br>
+
+LINUX:
 git clone https://github.com/constantinedev/youtube-dlownload-by-readline.git<br>
+cd youtube-dlownload-by-readline<br>
 chmod +x run.py<br>
 python3 -m pip install -U pip<br>
 python3 -m pip install youtube-dl<br>
