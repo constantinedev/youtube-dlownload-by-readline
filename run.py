@@ -7,6 +7,4 @@ with open(file_name) as fp:
 	cnt = 1
 	while line:
 		turl = line.strip()
-		##proc = subprocess.Popen('cmd.exe', stdin=subprocess.PIPE, stdout = subprocess.PIPE)
-		##stdout, stderr = proc.communicate(order + turl)
 		subprocess.call([order + turl], shell=True)
