@@ -21,7 +21,7 @@ python3 -m pip install youtube-dl<br>
 
 USAGE:
 
-[outputdir] 輸入你的下載目標為置  eg1. C;\Users\users\Donwloads eg2. ～/Downloads/ytdl/
+[outputdir] 輸入你的下載目標為置  eg1. C;\Users\users\Donwloads\ eg2. ～/Downloads/ytdl/
 
 check the [links.txt] file as the youtube url are your order<br>
 and start the following command in Terminal<br>
