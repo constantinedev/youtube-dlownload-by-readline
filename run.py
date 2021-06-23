@@ -16,7 +16,7 @@ def worker():
 	while lastIndex < lineCount:
 		lastIndex +=1
 		line = lines[lastIndex-1]
-		subprocess.call([order + ' https://www.youtube.com/watch?v=' + line.strip() + output], shell=True)
+		subprocess.call([order + 'https://www.youtube.com/watch?v=' + line.strip() + output], shell=True)
 
 threads = [threading.Thread(target=worker) for _i in range(300)]
 for thread in threads:
